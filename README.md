@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ixchellopezalegre
 - 👀 I’m interested in building a strong programming base 
-- 🌱 I’m currently learning Angular and Spring Boot JPA
+- 🌱 I’m currently learning Angular and Spring Security
 - 💞️ I’m looking to collaborate on any creative coding challenges
-- 📫 How to reach me you should try sending me a mind md 
+- 📫 How to reach me: you should try sending me a md :)
